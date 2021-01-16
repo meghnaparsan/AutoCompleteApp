@@ -1,2 +1,2 @@
 # AutoCompleteApp
-An AutoComplete App written in Javascript, and desgined in HTML.
+An AutoComplete App for Indian Cities written in Javascript, and desgined in HTML. 
